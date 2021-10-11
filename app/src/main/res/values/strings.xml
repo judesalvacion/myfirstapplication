@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="act1">ACTIVITY 1: App Specification</string>
+    <string name="notqout">The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela</string>
+    <string name="notqout2">The way to get started is to quit talking and begin doing. -Walt Disney</string>
+    <string name="notqout3">If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt</string>
+    <string name="tltnotqout">NOTABLE QUOTE</string>
+    <string name="tltjoke">JOKES</string>
+    <string name="joke1">What does a cloud wear under his raincoat? Thunderwear.</string>
+    <string name="joke2">What time is it when the clock strikes 13? Time to get a new clock.</string>
+    <string name="joke3">What did one toilet say to the other? You look a bit flushed.</string>
+</resources>
